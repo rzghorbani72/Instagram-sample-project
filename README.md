@@ -2,6 +2,8 @@
 this web project uses ReactJs,Redux-Saga
 with mock server (fake server)
 
+it uses browser localstorage as a database
+
 ## Features
 
  - Uses [ReactJs](https://reactjs.org/) 
@@ -24,7 +26,8 @@ Install dependencies
 ```bash
 npm install
 ```
-run react server default port = 3000
+run react server
+default port = 3000
 ```bash
 npm start
 ```
