@@ -18,6 +18,6 @@ const useStyles = makeStyles({
 
 const Header=()=>{
     const classes = useStyles();
-    return (<div className={classes.root}><h1 className={classes.title}>Rahnama Social WebSite</h1></div>)
+    return (<div className={classes.root}><h1 className={classes.title}>Instagram Example WebSite</h1></div>)
 }
 export default Header
